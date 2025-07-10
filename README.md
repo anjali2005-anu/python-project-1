@@ -1,2 +1,3 @@
-# python-project-1
+# python-projects
 #GUESS THE NUMBER
+# RANDOM PASSWORD GENERATOR
